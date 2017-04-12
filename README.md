@@ -1,2 +1,2 @@
 # testobjects
-demo on app.testobject.com
+demo on app.testobject.com - appium
