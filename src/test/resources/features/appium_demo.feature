@@ -1,4 +1,4 @@
-Feature: To test OI Shopping List application
+Feature: To test for test objects on OI Shopping List application
 
   Scenario: Adding items to My Shopping List
     Given User on the login page
